@@ -1,0 +1,594 @@
+from_station_id,from_station_name,Record_Count
+66,"Clinton St & Lake St",23098
+199,"Wabash Ave & Grand Ave",18398
+520,"Greenview Ave & Jarvis Ave",2432
+110,"Dearborn St & Erie St",25937
+327,"Sheffield Ave & Webster Ave",11163
+143,"Sedgwick St & Webster Ave",12315
+81,"Daley Center Plaza",31278
+56,"Desplaines St & Kinzie St",19596
+210,"Ashland Ave & Division St",15354
+117,"Wilton Ave & Belmont Ave",18172
+227,"Southport Ave & Waveland Ave",10106
+59,"Wabash Ave & Roosevelt Rd",22351
+67,"Sheffield Ave & Fullerton Ave",16000
+333,"Ashland Ave & Blackhawk St",6296
+77,"Clinton St & Madison St",44508
+90,"Millennium Park",34830
+38,"Clark St & Lake St",16996
+91,"Clinton St & Washington Blvd",49832
+69,"Damen Ave & Pierce Ave",18360
+26,"McClurg Ct & Illinois St",27367
+75,"Clinton St & Jackson Blvd",13973
+230,"Lincoln Ave & Roscoe St",8817
+289,"Wells St & Concord Ln",22637
+291,"Wells St & Evergreen Ave",13154
+112,"Green St & Randolph St",14080
+383,"Ashland Ave & Harrison St",4770
+53,"Wells St & Huron St",6794
+224,"Halsted St & Willow St",6256
+141,"Clark St & Lincoln Ave",20754
+256,"Broadway & Sheridan Rd",6378
+172,"Rush St & Cedar St",12582
+145,"Mies van der Rohe Way & Chestnut St",17613
+374,"Western Ave & Walton St",5509
+295,"Broadway & Argyle St",3956
+376,"Artesian Ave & Hubbard St",5321
+45,"Michigan Ave & Congress Pkwy",10169
+118,"Sedgwick St & North Ave",12713
+43,"Michigan Ave & Washington St",35436
+123,"California Ave & Milwaukee Ave",10027
+449,"Clark St & Columbia Ave",1831
+303,"Broadway & Cornelia Ave",10427
+21,"Aberdeen St & Jackson Blvd",9835
+504,"Campbell Ave & Fullerton Ave",3441
+479,"Drake Ave & Montrose Ave",1525
+126,"Clark St & North Ave",11593
+463,"Clark St & Berwyn Ave",6742
+219,"Damen Ave & Cortland St",9745
+240,"Sheridan Rd & Irving Park Rd",12752
+2,"Buckingham Fountain",15266
+142,"McClurg Ct & Erie St",16849
+300,"Broadway & Barry Ave",16350
+195,"Columbus Dr & Randolph St",37522
+213,"Leavitt St & North Ave",5354
+46,"Wells St & Walton St",7606
+254,"Pine Grove Ave & Irving Park Rd",11340
+111,"Sedgwick St & Huron St",9801
+86,"Eckhart Park",6252
+5,"State St & Harrison St",7340
+13,"Wilton Ave & Diversey Pkwy",12630
+130,"Damen Ave & Division St",10678
+340,"Clark St & Wrightwood Ave",15999
+299,"Halsted St & Roscoe St",10929
+537,"Kenton Ave & Madison St",27
+16,"Paulina Ave & North Ave",7347
+156,"Clark St & Wellington Ave",11906
+196,"Cityfront Plaza Dr & Pioneer Ct",12961
+198,"Green St & Madison St",15357
+284,"Michigan Ave & Jackson Blvd",18335
+71,"Morgan St & Lake St",16595
+149,"Calumet Ave & 33rd St",5203
+37,"Dearborn St & Adams St",14114
+447,"Glenwood Ave & Morse Ave",3788
+74,"Kingsbury St & Erie St",20026
+313,"Lakeview Ave & Fullerton Pkwy",14477
+100,"Orleans St & Merchandise Mart Plaza",29375
+106,"State St & Pearson St",12424
+161,"Rush St & Superior St",13068
+176,"Clark St & Elm St",23134
+452,"Western Ave & Granville Ave",690
+215,"Damen Ave & Madison St",2477
+47,"State St & Kinzie St",19540
+31,"Franklin St & Chicago Ave",14811
+62,"McCormick Place",7046
+231,"Sheridan Rd & Montrose Ave",8237
+148,"State St & 33rd St",8608
+226,"Racine Ave & Belmont Ave",8046
+181,"LaSalle St & Illinois St",26058
+174,"Canal St & Madison St",33687
+337,"Clark St & Chicago Ave",11126
+505,"Winchester Ave & Elston Ave",2211
+425,"Harper Ave & 59th St",1968
+225,"Halsted St & Dickens Ave",8498
+603,"Chicago Ave & Sheridan Rd",2844
+258,"Logan Blvd & Elston Ave",4915
+290,"Kedzie Ave & Palmer Ct",4038
+216,"California Ave & Division St",2209
+331,"Halsted St & Blackhawk St (*)",12203
+125,"Rush St & Hubbard St",13807
+35,"Streeter Dr & Grand Ave",97569
+420,"Ellis Ave & 55th St",5548
+158,"Milwaukee Ave & Wabansia Ave",8883
+501,"Richmond St & Diversey Ave",2273
+52,"Michigan Ave & Lake St",23001
+321,"Wabash Ave & 8th St",4393
+114,"Sheffield Ave & Waveland Ave",13495
+85,"Michigan Ave & Oak St",39397
+49,"Dearborn St & Monroe St",20909
+51,"Clark St & Randolph St",16558
+346,"Ada St & Washington Blvd",8146
+304,"Broadway & Waveland Ave",8460
+474,"Christiana Ave & Lawrence Ave",1266
+41,"Federal St & Polk St",12874
+44,"State St & Randolph St",17975
+482,"Campbell Ave & Montrose Ave",2384
+15,"Racine Ave & 18th St",4506
+115,"Sheffield Ave & Wellington Ave",11603
+232,"Pine Grove Ave & Waveland Ave",11749
+605,"University Library (NU)",3206
+418,"Ellis Ave & 53rd St",3642
+423,"University Ave & 57th St",9543
+33,"State St & Van Buren St",13652
+237,"MLK Jr Dr & 29th St",10787
+302,"Sheffield Ave & Wrightwood Ave",7785
+92,"Carpenter St & Huron St",5901
+236,"Sedgwick St & Schiller St",2492
+212,"Orleans St & Ohio St",13076
+242,"Damen Ave & Leland Ave",4686
+334,"Lake Shore Dr & Belmont Ave",16930
+229,"Southport Ave & Roscoe St",11243
+22,"May St & Taylor St",10185
+515,"Paulina St & Howard St",2011
+48,"Larrabee St & Kingsbury St",21931
+89,"Financial Pl & Congress Pkwy",12854
+250,"Ashland Ave & Wellington Ave",3502
+108,"Halsted St & Polk St",10291
+50,"Clark St & Congress Pkwy",11615
+194,"Wabash Ave & Wacker Pl",14178
+93,"Sheffield Ave & Willow St",8897
+127,"Lincoln Ave & Fullerton Ave",10313
+134,"Peoria St & Jackson Blvd",15190
+415,"Calumet Ave & 51st St",414
+190,"Southport Ave & Wrightwood Ave",6211
+173,"Mies van der Rohe Way & Chicago Ave",14678
+263,"Rhodes Ave & 32nd St",2925
+328,"Ellis Ave & 58th St",5008
+276,"California Ave & North Ave",2950
+311,"Leavitt St & Lawrence Ave",3097
+17,"Wood St & Division St",2951
+188,"Greenview Ave & Fullerton Ave",5463
+129,"Blue Island Ave & 18th St",5077
+144,"Larrabee St & Webster Ave",12527
+320,"Loomis St & Lexington St",12375
+133,"Kingsbury St & Kinzie St",35225
+201,"Indiana Ave & 40th St",374
+325,"Clark St & Winnemac Ave",6452
+440,"Lawndale Ave & 23rd St",45
+223,"Clifton Ave & Armitage Ave",8355
+324,"Stockton Dr & Wrightwood Ave",8589
+76,"Lake Shore Dr & Monroe St",53398
+319,"Greenview Ave & Diversey Pkwy",3663
+234,"Clark St & Montrose Ave",4473
+461,"Broadway & Ridge Ave",4076
+573,"State St & 79th St",236
+292,"Southport Ave & Clark St",2919
+294,"Broadway & Berwyn Ave",5745
+131,"Lincoln Ave & Belmont Ave",6416
+192,"Canal St & Adams St",50911
+184,"State St & 35th St",3657
+349,"Halsted St & Wrightwood Ave",10561
+211,"St. Clair St & Erie St",21672
+140,"Dearborn Pkwy & Delaware Pl",18023
+60,"Dayton St & North Ave",11287
+27,"Larrabee St & North Ave",4711
+137,"Morgan Ave & 14th Pl",4943
+9,"Leavitt St & Archer Ave",774
+604,"Sheridan Rd & Noyes St (NU)",3153
+6,"Dusable Harbor",24448
+98,"LaSalle St & Washington St",15371
+402,"Shields Ave & 31st St",1876
+80,"Aberdeen St & Monroe St",10540
+191,"Canal St & Monroe St (*)",16408
+208,"Ashland Ave & 21st St",1621
+312,"Clarendon Ave & Gordon Ter",7925
+164,"Franklin St & Lake St",14353
+426,"Ellis Ave & 60th St",5118
+342,"Wolcott Ave & Polk St",9228
+182,"Wells St & Elm St",12641
+344,"Ravenswood Ave & Lawrence Ave",13664
+332,"Halsted St & Diversey Pkwy",9787
+260,"Kedzie Ave & Milwaukee Ave",9178
+248,"Woodlawn Ave & 55th St",3113
+318,"Southport Ave & Irving Park Rd",5685
+203,"Western Ave & 21st St",1436
+278,"Wallace St & 35th St",1332
+36,"Franklin St & Jackson Blvd",22218
+343,"Racine Ave & Wrightwood Ave",5635
+244,"Ravenswood Ave & Irving Park Rd",5241
+293,"Broadway & Wilson Ave",4277
+434,"Ogden Ave & Roosevelt Rd",2418
+220,"Hampden Ct & Diversey Pkwy",13212
+205,"Paulina St & 18th St",3190
+61,"Wood St & Milwaukee Ave",10896
+119,"Ashland Ave & Lake St",4526
+460,"Clark St & Bryn Mawr Ave",4233
+165,"Clark St & Grace St",6660
+128,"Damen Ave & Chicago Ave",9592
+138,"Clybourn Ave & Division St",6602
+317,"Wood St & Taylor St",6716
+268,"Lake Shore Dr & North Blvd",47774
+454,"Broadway & Granville Ave",4200
+286,"Franklin St & Quincy St",13671
+54,"Ogden Ave & Chicago Ave",8513
+287,"Franklin St & Monroe St",34721
+99,"Lake Shore Dr & Ohio St",17201
+84,"Milwaukee Ave & Grand Ave",13206
+40,"LaSalle St & Adams St",13901
+457,"Clark St & Elmdale Ave",2432
+241,"Morgan St & Polk St",15297
+365,"Halsted St & North Branch St",2594
+206,"Halsted St & Archer Ave",1879
+183,"Damen Ave & Augusta Blvd",7727
+19,"Loomis St & Taylor St (*)",9815
+175,"Wells St & Polk St",8774
+359,"Larrabee St & Division St",10250
+255,"Indiana Ave & Roosevelt Rd",25305
+272,"Indiana Ave & 31st St",4534
+347,"Ashland Ave & Grace St",4616
+285,"Wood St & Hubbard St",3742
+72,"Wabash Ave & 16th St",9316
+154,"Southport Ave & Belmont Ave",5059
+88,"Racine Ave & Randolph St",6712
+251,"Clarendon Ave & Leland Ave",3931
+338,"Calumet Ave & 18th St",8703
+214,"Damen Ave & Grand Ave",5261
+20,"Sheffield Ave & Kingsbury St",9628
+96,"Desplaines St & Randolph St",10470
+298,"Lincoln Ave & Belle Plaine Ave",4361
+39,"Wabash Ave & Adams St",11951
+405,"Wentworth Ave & 35th St",1811
+472,"Lincoln Ave & Winona St",1463
+364,"Larrabee St & Oak St",8963
+341,"Adler Planetarium",23615
+596,"Benson Ave & Church St",5233
+58,"Marshfield Ave & Cortland St",17717
+185,"Stave St & Armitage Ave",2234
+113,"Bissell St & Armitage Ave",13289
+243,"Lincoln Ave & Leavitt St",4464
+107,"Desplaines St & Jackson Blvd",9593
+414,"Canal St & Taylor St",7102
+87,"Racine Ave & Fullerton Ave",7704
+4,"Burnham Harbor",22722
+42,"Wabash Ave & Cermak Rd",2849
+280,"Morgan St & 31st St",1762
+314,"Ravenswood Ave & Berteau Ave",4196
+73,"Jefferson St & Monroe St",9879
+283,"LaSalle St & Jackson Blvd",20725
+186,"Ogden Ave & Race Ave",6220
+253,"Clifton Ave & Lawrence Ave",4738
+180,"Ritchie Ct & Banks St",8068
+29,"Noble St & Milwaukee Ave",8214
+465,"Marine Dr & Ainslie St",4703
+24,"Fairbanks Ct & Grand Ave",20932
+305,"Western Ave & Division St",4757
+25,"Michigan Ave & Pearson St",12700
+217,"Racine Ave (May St) & Fulton St",7021
+481,"California Ave & Montrose Ave",1131
+7,"Field Blvd & South Water St",10535
+277,"Ashland Ave & Grand Ave",4146
+282,"Halsted St & Maxwell St",7294
+350,"Ashland Ave & Chicago Ave",7267
+162,"Damen Ave & Wellington Ave",3458
+307,"Southport Ave & Clybourn Ave",6502
+246,"Ashland Ave & Belle Plaine Ave",2987
+264,"Stetson Ave & South Water St",14249
+247,"Shore Dr & 55th St",7188
+382,"Western Ave & Congress Pkwy",1545
+120,"Wentworth Ave & Archer Ave",5462
+466,"Ridge Blvd & Touhy Ave",591
+451,"Sheridan Rd & Loyola Ave",3704
+484,"Monticello Ave & Irving Park Rd",1242
+57,"Clinton St & Roosevelt Rd",7242
+233,"Sangamon St & Washington Blvd (*)",9200
+306,"Sheridan Rd & Buena Ave",5472
+279,"Halsted St & 35th St (*)",1705
+477,"Manor Ave & Leland Ave",1012
+592,"Knox Ave & Montrose Ave",413
+152,"Lincoln Ave & Diversey Pkwy",8045
+296,"Broadway & Belmont Ave",10564
+28,"Larrabee St & Menomonee St",5778
+97,"Field Museum",13743
+177,"Theater on the Lake",47908
+262,"Halsted St & 37th St",481
+601,"Central St Metra",1034
+146,"Loomis St & Jackson Blvd",4801
+197,"Michigan Ave & Madison St",11324
+366,"Loomis St & Archer Ave",1105
+18,"Wacker Dr & Washington St",18020
+261,"Hermitage Ave & Polk St",6161
+397,"Saginaw Ave & Exchange Ave",269
+470,"Kedzie Ave & Foster Ave",850
+368,"Ashland Ave & Archer Ave",449
+204,"Prairie Ave & Garfield Blvd",1923
+322,"Kimbark Ave & 53rd St",6684
+116,"Western Ave & Winnebago Ave",7704
+478,"Rockwell St & Eastwood Ave",2443
+309,"Leavitt St & Armitage Ave",4295
+476,"Kedzie Ave & Leland Ave",1157
+399,"South Shore Dr & 74th St",346
+301,"Clark St & Schiller St",13255
+620,"Orleans St & Chestnut St (NEXT Apts)",4738
+552,"Ashland Ave & McDowell Ave",317
+345,"Lake Park Ave & 56th St",4279
+68,"Clinton St & Tilden St",8136
+616,"Oak Park Ave & Harrison St",293
+32,"Racine Ave & Congress Pkwy",6538
+406,"Lake Park Ave & 35th St",2753
+55,"Halsted St & Roosevelt Rd",4685
+497,"Kimball Ave & Belmont Ave",1779
+432,"Clark St & Lunt Ave",3030
+257,"Lincoln Ave & Waveland Ave",3926
+523,"Eastlake Ter & Rogers Ave",2471
+315,"Elston Ave & Wabansia Ave",3847
+619,"Keystone Ave & Fullerton Ave",720
+483,"Avondale Ave & Irving Park Rd",1435
+610,"Marion St & South Blvd",836
+502,"California Ave & Altgeld St",2590
+23,"Orleans St & Elm St (*)",4300
+169,"Canal St & Harrison St",3839
+329,"Lake Shore Dr & Diversey Pkwy",12332
+618,"Lombard Ave & Garfield St",319
+202,"Halsted St & 18th St",2909
+228,"Damen Ave & Melrose Ave",2870
+178,"State St & 19th St",2809
+3,"Shedd Aquarium",31799
+526,"Oakley Ave & Touhy Ave",383
+506,"Spaulding Ave & Armitage Ave",3766
+493,"Oakley Ave & Roscoe St",3252
+503,"Drake Ave & Fullerton Ave",2278
+30,"Ashland Ave & Augusta Blvd",5690
+168,"Michigan Ave & 14th St",9407
+597,"Chicago Ave & Washington St",3024
+354,"Sheridan Rd & Greenleaf Ave",2022
+94,"Clark St & Armitage Ave",24019
+273,"Michigan Ave & 18th St",9459
+600,"Dodge Ave & Church St",932
+238,"Ravenswood Ave & Montrose Ave (*)",3864
+330,"Lincoln Ave & Addison St",2340
+109,"900 W Harrison St",6230
+424,"Museum of Science and Industry",3799
+459,"Lakefront Trail & Bryn Mawr Ave",11789
+297,"Paulina St & Montrose Ave",2409
+471,"Francisco Ave & Foster Ave",1732
+464,"Damen Ave & Foster Ave",3648
+157,"Lake Shore Dr & Wellington Ave",13946
+422,"DuSable Museum",991
+486,"Oakley Ave & Irving Park Rd",2154
+617,"East Ave & Garfield St",237
+326,"Clark St & Leland Ave",4227
+310,"Damen Ave & Charleston St",3954
+489,"Drake Ave & Addison St",1522
+336,"Cottage Grove Ave & 47th St",1010
+245,"Clarendon Ave & Junior Ter",5566
+153,"Southport Ave & Wellington Ave",11742
+469,"St. Louis Ave & Balmoral Ave",955
+288,"Larrabee St & Armitage Ave",6681
+163,"Damen Ave & Clybourn Ave",3165
+122,"Ogden Ave & Congress Pkwy",2390
+170,"Clinton St & 18th St",3246
+222,"Milwaukee Ave & Rockwell St",2654
+34,"Cannon Dr & Fullerton Ave",8414
+124,"Damen Ave & Cullerton St",1565
+249,"Montrose Harbor",15913
+171,"May St & Cullerton St",1912
+417,"Cornell Ave & Hyde Park Blvd",5316
+487,"California Ave & Byron St",1131
+419,"Lake Park Ave & 53rd St",3882
+200,"MLK Jr Dr & 47th St",555
+239,"Western Ave & Leland Ave",5441
+166,"Ashland Ave & Wrightwood Ave",4073
+428,"Dorchester Ave & 63rd St",456
+453,"Clark St & Schreiber Ave",1553
+121,"Blackstone Ave & Hyde Park Blvd",2855
+500,"Central Park Ave & Elbridge Ave",1002
+528,"Pulaski Rd & Lake St",207
+394,"Clark St & 9th St (AMLI)",4783
+14,"Morgan St & 18th St",3499
+462,"Ravenswood Ave & Balmoral Ave",2522
+532,"Austin Blvd & Lake St",301
+370,"Calumet Ave & 21st St",3661
+136,"Racine Ave & 13th St",1189
+615,"Lombard Ave & Madison St",145
+611,"Oak Park Ave & South Blvd",460
+468,"Budlong Woods Library",616
+609,"Forest Ave & Lake St",532
+413,"Woodlawn Ave & Lake Park Ave",1023
+381,"Western Ave & Monroe St",1208
+456,"2112 W Peterson Ave",562
+193,"State St & 29th St",555
+147,"Indiana Ave & 26th St",2752
+496,"Avers Ave & Belmont Ave",923
+275,"Ashland Ave & 13th St",1987
+436,"Fairfield Ave & Roosevelt Rd",515
+348,"California Ave & 21st St",637
+475,"Washtenaw Ave & Lawrence Ave",1514
+308,"Seeley Ave & Roscoe St",3661
+274,"Racine Ave & 15th St",2255
+491,"Talman Ave & Addison St",2092
+267,"Lake Park Ave & 47th St",2810
+132,"Wentworth Ave & 24th St",1182
+207,"Emerald Ave & 28th St",1432
+159,"Claremont Ave & Hirsch St",3219
+271,"Cottage Grove Ave & 43rd St",473
+499,"Kosciuszko Park",1373
+385,"Princeton Ave & Garfield Blvd",374
+252,"Greenwood Ave & 47th St",1323
+511,"Albany Ave & Bloomingdale Ave",4680
+614,"East Ave & Madison St",253
+209,"Normal Ave & Archer Ave",1204
+590,"Kilbourn Ave & Irving Park Rd",667
+458,"Broadway & Thorndale Ave",3721
+316,"Damen Ave & Sunnyside Ave",2506
+179,"MLK Jr Dr & Oakwood Blvd",640
+403,"Wentworth Ave & 33rd St",1375
+437,"Washtenaw Ave & 15th St (*)",294
+509,"Troy St & North Ave",1798
+160,"Campbell Ave & North Ave",3383
+353,"Clark St & Touhy Ave",442
+606,"Forest Ave & Chicago Ave",715
+598,"Elmwood Ave & Austin St",583
+607,"Cuyler Ave & Augusta St",364
+507,"Humboldt Blvd & Armitage Ave",4802
+339,"Emerald Ave & 31st St",2882
+395,"Jeffery Blvd & 76th St",132
+259,"California Ave & Francis Pl",3400
+524,"Austin Blvd & Chicago Ave",192
+492,"Leavitt St & Addison St",1972
+613,"Wisconsin Ave & Madison St",441
+510,"Spaulding Ave & Division St",1080
+522,"Bosworth Ave & Howard St",905
+412,"Princeton Ave & 47th St",279
+444,"Albany Ave & 26th St",146
+612,"Ridgeland Ave & Lake St",426
+490,"Troy St & Elston Ave",1920
+103,"Clinton St & Polk St (*)",1842
+599,"Valli Produce - Evanston Plaza",407
+150,"Fort Dearborn Dr & 31st St",10630
+377,"Kedzie Ave & Lake St",948
+455,"Maplewood Ave & Peterson Ave",514
+373,"Kedzie Ave & Chicago Ave",593
+135,"Halsted St & 21st St",1379
+583,"Stony Island Ave & 82nd St",47
+396,"Yates Blvd & 75th St",95
+102,"Stony Island Ave & 67th St",239
+218,"Wells St & 19th St",1258
+265,"Cottage Grove Ave & Oakwood Blvd",1354
+439,"Kedzie Ave & 21st St",332
+401,"Shields Ave & 28th Pl",1207
+410,"Prairie Ave & 43rd St",351
+517,"Clark St & Jarvis Ave",900
+442,"California Ave & 23rd Pl",589
+335,"Calumet Ave & 35th St",1572
+448,"Warren Park East",621
+416,"Dorchester Ave & 49th St",765
+546,"Damen Ave & Pershing Rd",174
+367,"Racine Ave & 35th St",744
+445,"California Ave & 26th St",240
+427,"Cottage Grove Ave & 63rd St",645
+450,"Warren Park West",512
+323,"Sheridan Rd & Lawrence Ave",3466
+430,"MLK Jr Dr & 63rd St",73
+602,"Central St & Girard Ave",1055
+480,"Albany (Kedzie) Ave & Montrose Ave",466
+281,"Western Ave & 24th St",496
+498,"California Ave & Fletcher St",1731
+431,"Eberhart Ave & 61st St",137
+527,"Western Ave & Howard St",469
+514,"Ridge Blvd & Howard St",716
+443,"Millard Ave & 26th St",207
+375,"Sacramento Blvd & Franklin Blvd",475
+378,"California Ave & Lake St",768
+519,"Wolcott Ave & Fargo Ave",257
+553,"Elizabeth St & 47th St",99
+543,"Laramie Ave & Gladys Ave",127
+551,"Hoyne Ave & 47th St",126
+446,"Western Ave & 28th St",159
+388,"Halsted St & 63rd St",226
+12,"South Shore Dr & 71st St",836
+435,"Kedzie Ave & Roosevelt Rd",283
+488,"Pulaski Rd & Eddy St",360
+608,"Humphrey Ave & Ontario St",130
+485,"Sawyer Ave & Irving Park Rd",1047
+525,"Glenwood Ave & Touhy Ave",763
+508,"Central Park Ave & North Ave",1056
+591,"Kilbourn Ave & Milwaukee Ave",433
+594,"Western Blvd & 48th Pl",169
+535,"Pulaski Rd & Congress Pkwy",89
+356,"Stony Island Ave & 71st St",205
+421,"MLK Jr Dr & 56th St (*)",212
+407,"State St & Pershing Rd",78
+467,"Western Ave & Lunt Ave",721
+541,"Central Ave & Harrison St",91
+408,"Union Ave & Root St",183
+411,"Halsted St & 47th Pl",311
+518,"Conservatory Dr & Lake St",599
+579,"Phillips Ave & 79th St",124
+369,"Wood St & 35th St",188
+355,"South Shore Dr & 67th St",553
+548,"Morgan St & Pershing Rd",26
+547,"Ashland Ave & Pershing Rd",177
+11,"Jeffery Blvd & 71st St",323
+441,"Kedzie Ave & 24th St",71
+167,"Damen Ave & Coulter St",417
+95,"Stony Island Ave & 64th St",275
+586,"MLK Jr Dr & 83rd St",37
+495,"Keystone Ave & Montrose Ave",637
+438,"Central Park Ave & Ogden Ave",192
+352,"Jeffery Blvd & 67th St",422
+101,"63rd St Beach",1045
+351,"Cottage Grove Ave & 51st St",665
+531,"Central Ave & Lake St",92
+595,"Wabash Ave & 87th St",36
+398,"Rainbow Beach",127
+555,"Ashland Ave & 50th St",55
+433,"Kedzie Ave & Harrison St",190
+494,"Kedzie Ave & Bryn Mawr Ave",518
+570,"Evans Ave & 75th St",338
+529,"Cicero Ave & Lake St",68
+585,"Cottage Grove Ave & 83rd St",104
+554,"Damen Ave & 51st St",34
+270,"Stony Island Ave & 75th St",187
+589,"Milwaukee Ave & Cuyler Ave",303
+567,"May St & 69th St",14
+390,"Wentworth Ave & 63rd St",136
+550,"Central Ave & Chicago Ave",55
+391,"Halsted St & 69th St",64
+429,"Cottage Grove Ave & 67th St",184
+544,"Mason Ave & Madison St",37
+549,"Marshfield Ave & 44th St",35
+400,"Cottage Grove Ave & 71st St",97
+533,"Central Park Blvd & 5th Ave",130
+581,"Commercial Ave & 83rd St",9
+386,"Halsted St & 56th St",154
+562,"Racine Ave & 61st St",10
+575,"Cottage Grove Ave & 78th St",172
+384,"Halsted St & 51st St",31
+563,"Ashland Ave & 63rd St",66
+571,"Vernon Ave & 75th St",169
+534,"Pulaski Rd & Madison St",109
+536,"Kostner Ave & Lake St",99
+576,"Greenwood Ave & 79th St",95
+542,"Central Ave & Madison St",94
+538,"Cicero Ave & Flournoy St",13
+557,"Seeley Ave & Garfield Blvd",8
+569,"Woodlawn Ave & 75th St",19
+568,"Normal Ave & 72nd St",23
+593,"Halsted St & 59th St",31
+539,"Cicero Ave & Quincy St",46
+566,"Ashland Ave & 69th St",26
+565,"Ashland Ave & 66th St",4
+556,"Throop St & 52nd St",9
+545,"Kostner Ave & Adams St",70
+578,"Bennett Ave & 79th St",70
+540,"Laramie Ave & Madison St",58
+577,"Stony Island Ave & South Chicago Ave",77
+392,"Perry Ave & 69th St",61
+622,"California Ave & Cortez St",2091
+623,"Michigan Ave & 8th St",9899
+561,"Damen Ave & 59th St",33
+560,"Marshfield Ave & 59th St",23
+572,"State St & 76th St",121
+393,"Calumet Ave & 71st St",26
+587,"Wabash Ave & 83rd St",61
+580,"Exchange Ave & 79th St",244
+574,"Vernon Ave & 79th St",6
+409,"Shields Ave & 43rd St",24
+530,"Laramie Ave & Kinzie St",92
+584,"Ellis Ave & 83rd St",24
+588,"South Chicago Ave & 83rd St",22
+582,"Phillips Ave & 82nd St",3
+559,"Racine Ave & Garfield Blvd",27
+558,"Ashland Ave & Garfield Blvd",11
+564,"Racine Ave & 65th St",52
+53,"LaSalle (Wells) St & Huron St",9892
+321,"Wabash Ave & 9th St",7009
+17,"Honore St & Division St",4270
+574,"Eberhart (Vernon) Ave & 79th St",107
+480,"Albany Ave & Montrose Ave",627
+624,"Dearborn St & Van Buren St (*)",1839
+625,"Chicago Ave & Dempster St",719
+75,"Canal St & Jackson Blvd",7667
+437,"Washtenaw Ave & Ogden Ave (*)",352
+544,"Austin Blvd & Madison St",24
+626,"Delano Ct & Roosevelt Rd",28
